@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://surtechnik.es/sitemap.xml
