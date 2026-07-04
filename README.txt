@@ -1,5 +1,2 @@
-REPOSITORIO SURTECHNIK LISTO
-- index.html ya optimizado (tu diseño intacto)
-- Tel: 625518776 / email: surtechnik@gmail.com integrados
-- 32 redirecciones incluidas
-Sube todo a GitHub y activa Pages.
+SURTECHNIK WEB - Pack completo 2026
+Incluye index, serrania-ronda, costa-del-sol, 32 redirecciones, robots, sitemap, CNAME, google verification, icon.
