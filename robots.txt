@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Evita que Google pierda tiempo en las páginas antiguas (ahora redirigen)
+Disallow: /*.html?*
+
+Sitemap: https://surtechnik.es/sitemap.xml
